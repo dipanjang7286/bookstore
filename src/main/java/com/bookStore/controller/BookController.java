@@ -65,4 +65,17 @@ public class BookController {
         myBookListService.saveMyBooks(myBookList);
         return "redirect:/my_books";
     }
+
+    @RequestMapping("/editBook/{id}")
+    public String editBook(@PathVariable int id, Model model){
+        Book b = bookService.getBookById(id);
+        model.addAttribute("book", b);
+        return "bookEdit";
+    }
+
+    @RequestMapping("/deleteBook/{id}")
+    public String deleteBook(@PathVariable("id") int id){
+        bookService.deleteBookById(id);
+        return "redirect:/available_books";
+    }
 }
