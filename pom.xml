@@ -11,6 +11,7 @@
 	<groupId>com.bookStore</groupId>
 	<artifactId>bookStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>bookStore</name>
 	<description>BookStore Project for Spring Boot</description>
 	<properties>
