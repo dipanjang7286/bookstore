@@ -50,7 +50,7 @@ Frontend:
 
 -\> This is the landing page of the bookstore.
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fimage&psig=AOvVaw3pNWF9Y0E--cNqWHha--Lc&ust=1682490332898000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCduoazxP4CFQAAAAAdAAAAABAE)
+![Alt Text](bookstore/Screenshot 2023-04-25 at 11.58.37 AM.png)
 
 Functionalities: The functionalities are,
 
