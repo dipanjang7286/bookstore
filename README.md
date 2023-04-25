@@ -50,21 +50,21 @@ Frontend:
 
 -\> This is the landing page of the bookstore.
 
-![](Screenshot 2023-04-25 at 11.58.37 AM.png)
+![](Screenshot1.png)
 
 Functionalities: The functionalities are,
 
-![](RackMultipart20230425-1-ch557e_html_1122fc99e4e0fc8c.png)
+![](Screenshot2.png)
 
 In the above image after clicking the "Register New Book" Button a form is opened.
 
-![](RackMultipart20230425-1-ch557e_html_3b0c50d49eb2d9c3.png)
+![](Screenshot3.png)
 
 In the Above image the after clicking the submit button the book is submitted showing on the page "Available Books".
 
 Here we can edit and delete the books and also we can add multiple books to the "My Books" section.
 
-![](RackMultipart20230425-1-ch557e_html_f2dc743a3f7508ff.png)
+![](Screenshot4.png)
 
 In the above image the "My Book" section is shown. Here we can delete the books from my book section and it will not affect the "Available Book" section.
 
