@@ -50,7 +50,7 @@ Frontend:
 
 -\> This is the landing page of the bookstore.
 
-![Alt Text](bookstore/Screenshot 2023-04-25 at 11.58.37 AM.png)
+![](Screenshot 2023-04-25 at 11.58.37 AM.png)
 
 Functionalities: The functionalities are,
 
